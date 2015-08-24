@@ -16,6 +16,7 @@ public class URMonster extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 	}
 
+
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
